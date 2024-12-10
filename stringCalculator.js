@@ -1,3 +1,4 @@
+// program that is written using TDD process
 function add(numbers) {
     if (numbers === "") return 0;
   
